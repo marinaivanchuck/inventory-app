@@ -4,7 +4,7 @@ import ViewModal from './ViewModal';
 import EditModal from './EditModal';
 import ConfirmDelete from './ConfirmDelete';
 
-const API_BASE = 'http://localhost:5000';
+const API_BASE = 'http://localhost:5001';
 
 export default function InventoryTable() {
   const { items, deleteItem } = useInventory();
