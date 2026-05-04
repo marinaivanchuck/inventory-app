@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "inventory_name": "Ноутбук MacBook Pro",
+    "description": "14-дюймовий, M3 Pro, 16GB RAM",
+    "photo": "/uploads/sample-mac.jpg"
+  },
+  {
+    "id": "2",
+    "inventory_name": "Механічна клавіатура",
+    "description": "Keychron K2, червоні перемикачі",
+    "photo": "/uploads/sample-keyboard.jpg"
+  }
+]
